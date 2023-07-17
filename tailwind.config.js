@@ -4,5 +4,15 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    // require('@tailwindcss/aspect-ratio'),
+  ],
 }
+// tailwind.config.js
+// module.exports = {
+//   // ...
+//   plugins: [
+//     // ...
+//     require('@tailwindcss/aspect-ratio'),
+//   ],
+// }

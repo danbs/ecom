@@ -41,6 +41,7 @@
       </a>
       .
     </div>
+    
   </div>
   <div class="flex flex-col items-center grow">
     <a href="https://vercel.com">
